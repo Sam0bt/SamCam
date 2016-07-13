@@ -11,5 +11,5 @@ the `videoCapture` permissions to be set in the manifest file.
 
      
 ## Screenshot
-![screenshot](/samples/camera-capture/assets/screenshot.jpg)
+![screenshot](/assets/screenshot.jpg)
 
